@@ -1,4 +1,4 @@
-fedops
+git+https://github.com/kumass2020/FedOps-Docker-Test.git#egg=fedops
 torch
 torchvision
 scikit-learn
